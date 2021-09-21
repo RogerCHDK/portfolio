@@ -1110,6 +1110,10 @@ header{
         margin-top: 4.5rem;
     }
 
+    .footer{
+        height: 1px;
+    }
+
 }
 
 /* For large devices */
